@@ -3,7 +3,7 @@ repositories{
 }
 
 dependencies {
-    compile 'org.altbeacon:android-beacon-library:2.19.5-beta8'
+    implementation 'org.altbeacon:android-beacon-library:2.19.5-beta8'
 }
 
 android {
